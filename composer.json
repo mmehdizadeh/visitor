@@ -1,21 +1,20 @@
 {
-    "name": "shetabit/visitor",
+    "name": "mmehdizadeh/visitor",
     "type": "library",
     "description": "Laravel visitor",
     "keywords": [
-        "shetabit",
         "visitor",
         "track laravel visitors",
         "trace laravel visitors",
         "parse laravel user agents"
     ],
-    "homepage": "https://github.com/shetabit/visitor",
+    "homepage": "https://github.com/mmehdizadeh/visitor",
     "license": "MIT",
     "authors": [
         {
-            "name": "Mahdi Khanzadi",
-            "email": "khanzadimahdi@gmail.com",
-            "homepage": "https://github.com/khanzadimahdi",
+            "name": "Mahdi Mehdizadeh",
+            "email": "mehdizadeh.ws@gmail.com",
+            "homepage": "https://github.com/mmehdizadeh",
             "role": "Developer"
         }
     ],
